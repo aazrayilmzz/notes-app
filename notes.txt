@@ -4,3 +4,10 @@ Week 1 - Linux Commands
 3. cd    : Changes the current directory.
 4. mkdir : Creates a new directory.
 5. cat   : Displays the contents of a file.
+
+Week 2 - Git Commands
+1. git init   : Turns a folder into a Git repository.
+2. git status : Shows the state of files (untracked, staged, modified).
+3. git add    : Adds changes to the staging area.
+4. git commit : Permanently saves the staged changes.
+5. git log    : Shows the commit history.

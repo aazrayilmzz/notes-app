@@ -1,0 +1,6 @@
+Week 1 - Linux Commands
+1. pwd   : Prints the full path of the current directory.
+2. ls    : Lists the files and folders in the current directory.
+3. cd    : Changes the current directory.
+4. mkdir : Creates a new directory.
+5. cat   : Displays the contents of a file.

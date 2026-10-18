@@ -11,3 +11,4 @@ Week 2 - Git Commands
 3. git add    : Adds changes to the staging area.
 4. git commit : Permanently saves the staged changes.
 5. git log    : Shows the commit history.
+6. git branch : Lists the branches.
